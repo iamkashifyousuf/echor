@@ -1,9 +1,0 @@
-/home/kashif/vscode/rust/r-cli-projects/echo-rust/target/release/deps/textwrap-b42aece7476a5d16.d: /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/lib.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/indentation.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/splitting.rs
-
-/home/kashif/vscode/rust/r-cli-projects/echo-rust/target/release/deps/libtextwrap-b42aece7476a5d16.rlib: /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/lib.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/indentation.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/splitting.rs
-
-/home/kashif/vscode/rust/r-cli-projects/echo-rust/target/release/deps/libtextwrap-b42aece7476a5d16.rmeta: /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/lib.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/indentation.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/splitting.rs
-
-/home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/lib.rs:
-/home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/indentation.rs:
-/home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.11.0/src/splitting.rs:
