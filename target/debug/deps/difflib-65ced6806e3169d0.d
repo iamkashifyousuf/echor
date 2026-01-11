@@ -1,0 +1,8 @@
+/home/kashif/vscode/rust/r-cli-projects/echo-rust/target/debug/deps/difflib-65ced6806e3169d0.d: /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/lib.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/differ.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/sequencematcher.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/utils.rs
+
+/home/kashif/vscode/rust/r-cli-projects/echo-rust/target/debug/deps/libdifflib-65ced6806e3169d0.rmeta: /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/lib.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/differ.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/sequencematcher.rs /home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/utils.rs
+
+/home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/lib.rs:
+/home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/differ.rs:
+/home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/sequencematcher.rs:
+/home/kashif/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/difflib-0.4.0/src/utils.rs:
